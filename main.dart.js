@@ -95404,7 +95404,7 @@ return A.F(j,$async$$0)
 case 6:n=b
 j=n
 m=A.aza(A.aT(["userId",j==null?null:j.c],t.N,t.A),null,null)
-l="https://deplan-xyz.github.io/deplan-subsciptions-client-web/?orgId=66221d9cf2adbf150283556f&redirectUrl=https://phorevr.github.io&data="+A.e(m)
+l="https://deplan-xyz.github.io/deplan-subsciptions-client-web/?orgId=66221d9cf2adbf150283556f&redirectUrl=https://sub.phorevr.com&data="+A.e(m)
 s=7
 return A.F(A.avr(A.fZ(l,0,null),"_self"),$async$$0)
 case 7:q=1
