@@ -95034,40 +95034,38 @@ case 1:return A.H(q,r)
 case 2:return A.G(o,r)}})
 return A.I($async$vy,r)},
 ou(a){return this.alL(a)},
-alL(a){var s=0,r=A.J(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g
+alL(a){var s=0,r=A.J(t.H),q=1,p,o=this,n,m,l,k,j,i,h
 var $async$ou=A.K(function(b,c){if(b===1){p=c
-s=q}while(true)switch(s){case 0:i={}
-i.a=null
+s=q}while(true)switch(s){case 0:j={}
+j.a=null
 q=3
-l=a.b
-l.toString
 s=6
-return A.F(A.Mw(l),$async$ou)
-case 6:k=c
-i.a=k
-g=i
+return A.F(A.Mw(A.e(a.b)+"/preview"),$async$ou)
+case 6:l=c
+j.a=l
+h=j
 s=7
-return A.F($.nd().vh(k),$async$ou)
-case 7:g.a=c
-o.aq(new A.apb(i,a))
+return A.F($.nd().vh(l),$async$ou)
+case 7:h.a=c
+o.aq(new A.apb(j,a))
 q=1
 s=5
 break
 case 3:q=2
-h=p
-i=A.ai(h)
-s=i instanceof A.fG?8:10
+i=p
+j=A.ai(i)
+s=j instanceof A.fG?8:10
 break
-case 8:n=i
-i=n.b
-s=(i==null?null:i.c)===404?11:12
+case 8:n=j
+j=n.b
+s=(j==null?null:j.c)===404?11:12
 break
 case 11:s=13
 return A.F(A.lT(new A.b4(4e6),null,t.z),$async$ou)
 case 13:o.ou(a)
 case 12:s=9
 break
-case 10:m=i
+case 10:m=j
 A.fz(m)
 case 9:s=5
 break
@@ -95237,30 +95235,28 @@ aW(){this.bp()
 var s=this.a.c.c
 this.d=s==null?$.a1w():s},
 vz(){return this.alN()},
-alN(){var s=0,r=A.J(t.H),q=1,p,o=this,n,m,l,k,j,i
+alN(){var s=0,r=A.J(t.H),q=1,p,o=this,n,m,l,k,j
 var $async$vz=A.K(function(a,b){if(a===1){p=b
-s=q}while(true)switch(s){case 0:l={}
-k=o.a.c.b
-k.toString
+s=q}while(true)switch(s){case 0:m={}
 s=2
-return A.F(A.Mw(k),$async$vz)
-case 2:n=b
-l.a=n
+return A.F(A.Mw(A.e(o.a.c.b)+"/full"),$async$vz)
+case 2:l=b
+m.a=l
 q=4
-i=l
+j=m
 s=7
-return A.F($.nd().vh(n),$async$vz)
-case 7:i.a=b
+return A.F($.nd().vh(l),$async$vz)
+case 7:j.a=b
 q=1
 s=6
 break
 case 4:q=3
-j=p
+k=p
 s=6
 break
 case 3:s=1
 break
-case 6:o.aq(new A.apy(l,o))
+case 6:o.aq(new A.apy(m,o))
 return A.H(null,r)
 case 1:return A.G(p,r)}})
 return A.I($async$vz,r)},
@@ -95317,7 +95313,7 @@ case 5:return A.H(null,r)
 case 1:return A.G(p,r)}})
 return A.I($async$B0,r)},
 Y(a){var s=null,r=A.a23(s,s,s,s,B.hC,s,s,0),q=t.E,p=A.a6P(A.jd(A.b([A.tT(A.aDu("assets/images/logo_with_text.png",s,250),s,s),B.Am,B.a4R,B.Am,B.a4O],q),B.aj,B.h4,B.ab),4)
-return A.agi(r,B.j,A.vV(!0,new A.pg(A.jd(A.b([p,new A.pQ(1,B.jd,A.h9(s,A.jd(A.b([A.a6P(A.jd(A.b([A.aCN(B.a4V,this.d?s:new A.aq9(this,a))],q),B.nn,B.ae,B.ab),1)],q),B.nn,B.ae,B.ab),B.w,s,B.CL,s,s,s,s,1/0),s)],q),B.aj,B.ae,B.ab),s),B.an,!0))}}
+return A.agi(r,B.j,A.vV(!0,new A.pg(A.jd(A.b([p,new A.pQ(1,B.jd,A.h9(s,A.jd(A.b([A.a6P(A.jd(A.b([A.aCN(B.a4S,this.d?s:new A.aq9(this,a))],q),B.nn,B.ae,B.ab),1)],q),B.nn,B.ae,B.ab),B.w,s,B.CL,s,s,s,s,1/0),s)],q),B.aj,B.ae,B.ab),s),B.an,!0))}}
 A.aqa.prototype={
 $0(){this.a.d=!0},
 $S:0}
@@ -102745,8 +102741,8 @@ B.dt=new A.fQ(null,20,null,null)
 B.hE=new A.r(!0,B.iQ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a4M=new A.eK("Enjoy the first Pay-As-You-Go photo storage ever.",null,B.hE,null,null)
 B.a4P=new A.eK("No subscription.\nNo commitment.\nNo ads.",null,B.hE,null,null)
-B.a4S=new A.eK("End-to-end encrypted.",null,B.hE,null,null)
-B.PD=A.b(s([B.dt,B.a4M,B.dt,B.a4P,B.dt,B.a4S]),t.E)
+B.a4T=new A.eK("End-to-end encrypted.",null,B.hE,null,null)
+B.PD=A.b(s([B.dt,B.a4M,B.dt,B.a4P,B.dt,B.a4T]),t.E)
 B.Hl=new A.za(B.bd,B.ae,B.ab,B.cY,null,B.bv,null,B.PD,null)
 B.nm=new A.zd(0,"none")
 B.iX=new A.zd(1,"waiting")
@@ -105168,11 +105164,11 @@ B.zv=new A.id(null,null)
 B.Jo=new A.hf(57686,"MaterialIcons",null,!1)
 B.jm=new A.ky(B.Jo,null,null,null,null)
 B.eI=new A.fQ(10,null,null,null)
-B.a4U=new A.eK("Pay for how intensely you will use the app.",null,null,null,null)
-B.Sk=A.b(s([B.jm,B.eI,B.a4U]),t.E)
+B.a4V=new A.eK("Pay for how intensely you will use the app.",null,null,null,null)
+B.Sk=A.b(s([B.jm,B.eI,B.a4V]),t.E)
 B.XJ=new A.rv(B.av,B.ae,B.ab,B.aj,null,B.bv,null,B.Sk,null)
-B.a4T=new A.eK("Pay after a month based on usage.",null,null,null,null)
-B.PL=A.b(s([B.jm,B.eI,B.a4T]),t.E)
+B.a4U=new A.eK("Pay after a month based on usage.",null,null,null,null)
+B.PL=A.b(s([B.jm,B.eI,B.a4U]),t.E)
 B.XK=new A.rv(B.av,B.ae,B.ab,B.aj,null,B.bv,null,B.PL,null)
 B.a4X=new A.eK("No card. No commitments. No surprises.",null,null,null,null)
 B.Ro=A.b(s([B.jm,B.eI,B.a4X]),t.E)
@@ -105776,7 +105772,7 @@ B.a0v=new A.r(!0,B.iQ,null,null,null,null,12,B.M,null,null,null,null,null,null,n
 B.a4Q=new A.eK("Check photo on blockchain \xbb",null,B.a0v,null,null)
 B.a2i=new A.r(!0,null,null,"Gilroy",null,null,22,B.M,null,-0.3,null,null,1.1,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a4R=new A.eK("The first Pay-As-You-Go\nphoto storage ever.",null,B.a2i,B.eM,null)
-B.a4V=new A.eK("Continue with Apple",null,null,null,null)
+B.a4S=new A.eK("Go to account",null,null,null,null)
 B.a4W=new A.eK("Continue with DePlan",null,null,null,null)
 B.a8p=new A.ajL(0,"system")
 B.AL=new A.E7(0)
