@@ -110337,14 +110337,14 @@ return A.A($.jd().Em(),$async$z0)
 case 4:if(a.e!=null)p.a3N(a)
 case 1:return A.C(q,r)}})
 return A.D($async$z0,r)},
-P(a){var s=null,r=A.fn(B.dK,A.aQN(B.MY,B.a9J,new A.a86(this,a)),B.y,s,s,s,s,s,s,s)
-return A.Vf(new A.mu(A.fR(A.b([B.a3b,r,B.fT,A.fn(B.dK,A.aQN(new A.Wm(new A.Hq("assets/icons/logout_icon.svg",s,s,s,s),s,s),B.a9I,new A.a87(this,a)),B.y,s,s,s,s,s,s,s)],t.E),B.at,B.ac,B.am),s),"Settings")}}
+P(a){var s=null,r=A.fn(B.dK,A.aQN(B.MY,B.a9K,new A.a86(this,a)),B.y,s,s,s,s,s,s,s)
+return A.Vf(new A.mu(A.fR(A.b([B.a3b,r,B.fT,A.fn(B.dK,A.aQN(new A.Wm(new A.Hq("assets/icons/logout_icon.svg",s,s,s,s),s,s),B.a9J,new A.a87(this,a)),B.y,s,s,s,s,s,s,s)],t.E),B.at,B.ac,B.am),s),"Settings")}}
 A.a8b.prototype={
 $1(a){return!1},
 $S:48}
 A.a8a.prototype={
 $1(a){var s=null
-return new A.vW(B.a9F,A.b([A.z1(!1,B.a9v,s,s,B.cr,s,s,s,s,new A.a88(a),s,s),A.z1(!1,B.a9C,s,s,B.cr,s,s,s,s,new A.a89(a),s,A.arp(s,s,s,s,s,s,s,s,s,B.d9,s,s,s,s,s,s,s,s,s))],t.E),s)},
+return new A.vW(B.a9G,A.b([A.z1(!1,B.a9w,s,s,B.cr,s,s,s,s,new A.a88(a),s,s),A.z1(!1,B.a9D,s,s,B.cr,s,s,s,s,new A.a89(a),s,A.arp(s,s,s,s,s,s,s,s,s,B.d9,s,s,s,s,s,s,s,s,s))],t.E),s)},
 $S:553}
 A.a88.prototype={
 $0(){A.f8(this.a,!1).zS(!1)},
@@ -110649,7 +110649,7 @@ P(a){var s,r=this,q=null,p=A.cm(a,q,t.w).w,o=r.a.c.b
 if(o==null)o=""
 s=r.d
 s===$&&A.a()
-return A.Vf(A.fR(A.b([A.mB(new A.hO(new A.aG(0,1/0,0,p.a.b*0.7),A.agH(A.aI8(B.ba,new A.iK(s,1),q,new A.iK(s,1)),new A.ays(r),o,!0),q),q,q),B.c9,A.z1(!1,B.a9r,q,q,B.cr,q,q,q,q,new A.ayt(r),q,q)],t.E),B.at,B.fB,B.am),"")}}
+return A.Vf(A.fR(A.b([A.mB(new A.hO(new A.aG(0,1/0,0,p.a.b*0.7),A.agH(A.aI8(B.ba,new A.iK(s,1),q,new A.iK(s,1)),new A.ays(r),o,!0),q),q,q),B.c9,A.z1(!1,B.a9s,q,q,B.cr,q,q,q,q,new A.ayt(r),q,q)],t.E),B.at,B.fB,B.am),"")}}
 A.ayu.prototype={
 $0(){this.b.d=this.a.a},
 $S:0}
@@ -110702,7 +110702,7 @@ amX(){var s=this.c
 s.toString
 A.aPz(s,A.nc(new A.azk(),null,t.z),new A.azl())},
 P(a){var s=this,r=null,q=t.E,p=A.D3(new A.Ec(A.b([B.CZ,A.Np(B.Do,"Email",!1,new A.azp(s),B.jp,s.gate()),B.n0,A.Np(B.nl,"Password",!0,new A.azq(s),B.nk,s.gati())],q),r),1),o=s.f,n=o?r:s.gamu()
-return A.Vf(new A.mu(A.aOn(A.fR(A.b([p,B.fT,A.fc(A.PP(o?B.p1:B.a9A,n,r),r,290),B.c9,A.z1(!1,B.a9B,r,r,B.cr,r,r,r,r,new A.azr(a),r,r),B.c9],q),B.at,B.ac,B.am),s.r),r),"Login with Email")},
+return A.Vf(new A.mu(A.aOn(A.fR(A.b([p,B.fT,A.fc(A.PP(o?B.p1:B.a9B,n,r),r,290),B.c9,A.z1(!1,B.a9C,r,r,B.cr,r,r,r,r,new A.azr(a),r,r),B.c9],q),B.at,B.ac,B.am),s.r),r),"Login with Email")},
 atf(a){var s
 if(a.length===0)return"Please enter your email"
 s=A.c_("^[\\w-\\.]+@([\\w-]+\\.)+[\\w-]{2,4}$",!0,!1,!1)
@@ -110793,7 +110793,7 @@ aru(){var s=this.c
 s.toString
 A.aPz(s,A.nc(new A.aCa(),null,t.z),new A.aCb())},
 P(a){var s=this,r=null,q=t.E,p=A.D3(new A.Ec(A.b([B.CZ,A.Np(B.Do,"Email",!1,new A.aCh(s),B.jp,s.garv()),B.n0,A.Np(B.nl,"Password",!0,new A.aCi(s),B.jp,s.garx()),B.n0,A.Np(B.nl,"Confirm Password",!0,r,B.nk,s.gatc())],q),r),1),o=s.f,n=o?r:s.gart()
-return A.Vf(new A.mu(A.aOn(A.fR(A.b([p,B.fT,A.fc(A.PP(o?B.p1:B.a9p,n,r),r,290),B.c9,A.z1(!1,B.a9H,r,r,B.cr,r,r,r,r,new A.aCj(a),r,r),B.c9],q),B.at,B.ac,B.am),s.r),r),"Sign Up with Email")}}
+return A.Vf(new A.mu(A.aOn(A.fR(A.b([p,B.fT,A.fc(A.PP(o?B.p1:B.a9p,n,r),r,290),B.c9,A.z1(!1,B.a9I,r,r,B.cr,r,r,r,r,new A.aCj(a),r,r),B.c9],q),B.at,B.ac,B.am),s.r),r),"Sign Up with Email")}}
 A.aCc.prototype={
 $0(){this.a.f=!0},
 $S:0}
@@ -110869,10 +110869,10 @@ return A.D($async$zt,r)},
 Ko(a){var s=null,r=this.c.aE(t.Pu)
 r.toString
 r.f.AZ(A.VY(s,s,s,B.d9,B.ez,B.ai,s,A.fD(a,s,s,s,s,s,s),s,B.hH,s,s,s,s,s,s,s,s,s))},
-P(a){var s=null,r=A.a8w(s,s,s,s,B.jo,s,s,0),q=t.E,p=A.D3(A.fR(A.b([A.mB(A.aOQ("assets/images/logo_with_text.png",s,250),s,s),B.D_,B.a9z,B.D_,B.a9y],q),B.at,B.fB,B.am),4),o=A.b([],q)
-o.push(A.PP(B.a9t,this.d?s:new A.azt(this,a),s))
+P(a){var s=null,r=A.a8w(s,s,s,s,B.jo,s,s,0),q=t.E,p=A.D3(A.fR(A.b([A.mB(A.aOQ("assets/images/logo_with_text.png",s,250),s,s),B.D_,B.a9A,B.D_,B.a9z],q),B.at,B.fB,B.am),4),o=A.b([],q)
+o.push(A.PP(B.a9u,this.d?s:new A.azt(this,a),s))
 o.push(B.fT)
-o.push(A.PP(B.a9G,new A.azu(a),A.aNY(s,s,B.E,s,s,s,s,s,s,B.aF,s,s,s,s,s,B.ou,s,s,s,s)))
+o.push(A.PP(B.a9H,new A.azu(a),A.aNY(s,s,B.E,s,s,s,s,s,s,B.aF,s,s,s,s,s,B.ou,s,s,s,s)))
 return A.aov(r,B.j,A.ux(!0,new A.mu(A.fR(A.b([p,new A.oX(1,B.hS,A.fn(s,A.fR(A.b([A.D3(A.fR(o,B.kN,B.ac,B.am),1)],q),B.kN,B.ac,B.am),B.y,s,B.FI,s,s,s,s,1/0),s)],q),B.at,B.ac,B.am),s),B.av,!0))}}
 A.azv.prototype={
 $0(){this.a.d=!0},
@@ -110945,12 +110945,12 @@ case 1:return A.C(q,r)
 case 2:return A.B(o,r)}})
 return A.D($async$pd,r)},
 auJ(a){var s=null,r=A.a7(a).p2.Q
-return A.fR(A.b([B.a15,B.a14,B.a13,B.L1,A.aJt(s,s,B.cx,s,s,!0,s,A.dg(B.VD,r==null?s:r.cz(B.kB),s),B.bi,s,s,B.al,B.aS),B.CY,A.PP(B.a9K,new A.aCC(this),s)],t.E),B.dT,B.ac,B.am)},
+return A.fR(A.b([B.a15,B.a14,B.a13,B.L1,A.aJt(s,s,B.cx,s,s,!0,s,A.dg(B.VD,r==null?s:r.cz(B.kB),s),B.bi,s,s,B.al,B.aS),B.CY,A.PP(B.a9q,new A.aCC(this),s)],t.E),B.dT,B.ac,B.am)},
 auM(a,b){var s=this,r=null,q=J.M(b),p=A.fD(q.h(b,"title"),r,r,r,r,r,r),o=A.aOQ(q.h(b,"image"),30,r)
 o=A.b([new A.FJ(q.h(b,"name"),s.e,new A.aCE(s),p,o,r,t.wD)],t.E)
 if(s.e===B.mm&&J.d(q.h(b,"name"),B.mm))o.push(new A.dw(B.LL,s.auJ(a),r))
 return A.fR(o,B.dT,B.ac,B.am)},
-P(a){var s=null,r=A.a8w(s,s,s,s,s,B.a9q,s,s),q=A.b([B.CY],t.E),p=this.d,o=A.a9(p).i("ab<1,m>")
+P(a){var s=null,r=A.a8w(s,s,s,s,s,B.a9r,s,s),q=A.b([B.CY],t.E),p=this.d,o=A.a9(p).i("ab<1,m>")
 B.c.K(q,A.S(new A.ab(p,new A.aCF(this,a),o),!0,o.i("aF.E")))
 return A.aov(r,B.j,A.fR(q,B.at,B.ac,B.am))}}
 A.aCG.prototype={
@@ -119023,10 +119023,10 @@ B.dT=new A.rm(0,"start")
 B.bu=new A.Xt(1,"down")
 B.c9=new A.fA(null,20,null,null)
 B.js=new A.q(!0,B.kB,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a9u=new A.ds("Enjoy the first Pay-As-You-Go photo storage ever.",null,B.js,null,null,null,null,null,null)
-B.a9w=new A.ds("No subscription.\nNo commitment.\nNo ads.",null,B.js,null,null,null,null,null,null)
-B.a9s=new A.ds("End-to-end encrypted.",null,B.js,null,null,null,null,null,null)
-B.VS=A.b(s([B.c9,B.a9u,B.c9,B.a9w,B.c9,B.a9s]),t.E)
+B.a9v=new A.ds("Enjoy the first Pay-As-You-Go photo storage ever.",null,B.js,null,null,null,null,null,null)
+B.a9x=new A.ds("No subscription.\nNo commitment.\nNo ads.",null,B.js,null,null,null,null,null,null)
+B.a9t=new A.ds("End-to-end encrypted.",null,B.js,null,null,null,null,null,null)
+B.VS=A.b(s([B.c9,B.a9v,B.c9,B.a9x,B.c9,B.a9t]),t.E)
 B.Ke=new A.Cd(B.aV,B.ac,B.am,B.dT,null,B.bu,null,B.VS,null)
 B.pz=new A.Cf(0,"none")
 B.kG=new A.Cf(1,"waiting")
@@ -121677,14 +121677,14 @@ B.j4=new A.j_(null,null)
 B.MH=new A.fW(57686,"MaterialIcons",null,!1)
 B.li=new A.kl(B.MH,null,null,null,null)
 B.fS=new A.fA(10,null,null,null)
-B.a9x=new A.ds("Get refunded at the end of the month depending on usage",null,null,null,null,null,null,null,null)
-B.Wo=A.b(s([B.li,B.fS,B.a9x]),t.E)
+B.a9y=new A.ds("Get refunded at the end of the month depending on usage",null,null,null,null,null,null,null,null)
+B.Wo=A.b(s([B.li,B.fS,B.a9y]),t.E)
 B.a13=new A.uw(B.az,B.ac,B.am,B.at,null,B.bu,null,B.Wo,null)
-B.a9D=new A.ds("Use the product and control usage",null,null,null,null,null,null,null,null)
-B.PB=A.b(s([B.li,B.fS,B.a9D]),t.E)
+B.a9E=new A.ds("Use the product and control usage",null,null,null,null,null,null,null,null)
+B.PB=A.b(s([B.li,B.fS,B.a9E]),t.E)
 B.a14=new A.uw(B.az,B.ac,B.am,B.at,null,B.bu,null,B.PB,null)
-B.a9E=new A.ds("Deposit monthly fee into smart-contract escrow",null,null,null,null,null,null,null,null)
-B.UE=A.b(s([B.li,B.fS,B.a9E]),t.E)
+B.a9F=new A.ds("Deposit monthly fee into smart-contract escrow",null,null,null,null,null,null,null,null)
+B.UE=A.b(s([B.li,B.fS,B.a9F]),t.E)
 B.a15=new A.uw(B.az,B.ac,B.am,B.at,null,B.bu,null,B.UE,null)
 B.a16=new A.Gv(1333)
 B.mE=new A.Gv(2222)
@@ -122339,25 +122339,25 @@ B.a7O=new A.q(!0,B.n,null,"Roboto",B.a2,null,null,null,null,null,null,null,null,
 B.a7Z=new A.q(!0,B.n,null,"Roboto",B.a2,null,null,null,null,null,null,null,null,null,null,null,null,B.h,null,null,null,"blackHelsinki labelSmall",null,null,null,null)
 B.a9o=new A.ec(B.a8M,B.a5K,B.a6M,B.a7N,B.a80,B.a57,B.a6i,B.a5e,B.a7v,B.a8d,B.a6W,B.a8f,B.a8q,B.a7O,B.a7Z)
 B.a9p=new A.ds("Sign Up",null,null,null,null,null,null,null,null)
-B.a9q=new A.ds("Choose payment method",null,null,null,null,null,null,null,null)
+B.a9q=new A.ds("Subscribe with DePlan",null,null,null,null,null,null,null,null)
+B.a9r=new A.ds("Choose payment method",null,null,null,null,null,null,null,null)
 B.a58=new A.q(!0,B.kB,null,null,null,null,12,B.U,null,null,null,null,null,null,null,null,null,B.h_,null,null,null,null,null,null,null,null)
-B.a9r=new A.ds("Check photo on blockchain \xbb",null,B.a58,null,null,null,null,null,null)
-B.a9t=new A.ds("Continue with Apple",null,null,null,null,null,null,null,null)
-B.a9v=new A.ds("No",null,null,null,null,null,null,null,null)
+B.a9s=new A.ds("Check photo on blockchain \xbb",null,B.a58,null,null,null,null,null,null)
+B.a9u=new A.ds("Continue with Apple",null,null,null,null,null,null,null,null)
+B.a9w=new A.ds("No",null,null,null,null,null,null,null,null)
 B.a7P=new A.q(!0,null,null,"Gilroy",null,null,16,B.U,null,-0.3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a9y=new A.ds("Store forever. Pay while using.",null,B.a7P,B.fY,null,null,null,null,null)
+B.a9z=new A.ds("Store forever. Pay while using.",null,B.a7P,B.fY,null,null,null,null,null)
 B.a6X=new A.q(!0,null,null,"Gilroy",null,null,22,B.U,null,-0.3,null,null,1.1,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a9z=new A.ds("The first Pay-As-You-Go\nphoto storage ever.",null,B.a6X,B.fY,null,null,null,null,null)
-B.a9A=new A.ds("Login",null,null,null,null,null,null,null,null)
-B.a9B=new A.ds("Don't have an account? Sign up",null,null,null,null,null,null,null,null)
-B.a9C=new A.ds("Yes",null,null,null,null,null,null,null,null)
-B.a9F=new A.ds("Are you sure you want to delete your account permanently?",null,null,null,null,null,null,null,null)
-B.a9G=new A.ds("Continue with Email",null,null,null,null,null,null,null,null)
-B.a9H=new A.ds("Already have an account? Log in",null,null,null,null,null,null,null,null)
+B.a9A=new A.ds("The first Pay-As-You-Go\nphoto storage ever.",null,B.a6X,B.fY,null,null,null,null,null)
+B.a9B=new A.ds("Login",null,null,null,null,null,null,null,null)
+B.a9C=new A.ds("Don't have an account? Sign up",null,null,null,null,null,null,null,null)
+B.a9D=new A.ds("Yes",null,null,null,null,null,null,null,null)
+B.a9G=new A.ds("Are you sure you want to delete your account permanently?",null,null,null,null,null,null,null,null)
+B.a9H=new A.ds("Continue with Email",null,null,null,null,null,null,null,null)
+B.a9I=new A.ds("Already have an account? Log in",null,null,null,null,null,null,null,null)
 B.Dq=new A.q(!0,B.d9,null,null,null,null,16,B.qg,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a9I=new A.ds("Log Out",null,B.Dq,null,null,null,null,null,null)
-B.a9J=new A.ds("Delete Account",null,B.Dq,null,null,null,null,null,null)
-B.a9K=new A.ds("Continue with DePlan",null,null,null,null,null,null,null,null)
+B.a9J=new A.ds("Log Out",null,B.Dq,null,null,null,null,null,null)
+B.a9K=new A.ds("Delete Account",null,B.Dq,null,null,null,null,null,null)
 B.ae7=new A.ash(0,"system")
 B.a_5=new A.n(0.05,0)
 B.a_6=new A.n(0.133333,0.06)
