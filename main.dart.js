@@ -110900,7 +110900,7 @@ A.pF.prototype={
 G(){return"PaymentMethod."+this.b}}
 A.uQ.prototype={
 aw(){var s=t.z
-return new A.a4b(A.b([A.aH(["name",B.a_y,"title","Credit Card","image","assets/images/credits.webp"],s,s),A.aH(["name",B.mm,"title","Pay with DePlan based on usage","image","assets/images/deplan.webp"],s,s),A.aH(["name",B.a_z,"title","PayPal","image","assets/images/paypal.webp"],s,s)],t.n4),B.i)}}
+return new A.a4b(A.b([A.aH(["name",B.a_y,"title","Credit Card","image","assets/images/credits.webp"],s,s),A.aH(["name",B.mm,"title","Pay based on usage","image","assets/images/deplan.webp"],s,s),A.aH(["name",B.a_z,"title","PayPal","image","assets/images/paypal.webp"],s,s)],t.n4),B.i)}}
 A.a4b.prototype={
 aY(){this.bb()
 this.f=this.pd()},
